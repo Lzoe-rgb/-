@@ -1,0 +1,68 @@
+[
+    {
+        "InstFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/top.v",
+        "InstLine": 1,
+        "InstName": "top",
+        "ModuleFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/top.v",
+        "ModuleLine": 1,
+        "ModuleName": "top",
+        "SubInsts": [
+            {
+                "InstFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/top.v",
+                "InstLine": 47,
+                "InstName": "u_qd",
+                "ModuleFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/quad_decoder.v",
+                "ModuleLine": 1,
+                "ModuleName": "quad_decoder"
+            },
+            {
+                "InstFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/top.v",
+                "InstLine": 58,
+                "InstName": "u_balance",
+                "ModuleFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/balance_ctrl.v",
+                "ModuleLine": 1,
+                "ModuleName": "balance_ctrl"
+            },
+            {
+                "InstFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/top.v",
+                "InstLine": 74,
+                "InstName": "u_map",
+                "ModuleFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/sign_map.v",
+                "ModuleLine": 1,
+                "ModuleName": "sign_map"
+            },
+            {
+                "InstFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/top.v",
+                "InstLine": 80,
+                "InstName": "u_pwm",
+                "ModuleFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/pwm_gen.v",
+                "ModuleLine": 1,
+                "ModuleName": "pwm_gen"
+            },
+            {
+                "InstFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/top.v",
+                "InstLine": 103,
+                "InstName": "u_tx",
+                "ModuleFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/uart_tx.v",
+                "ModuleLine": 1,
+                "ModuleName": "uart_tx"
+            }
+        ]
+    },
+    {
+        "InstFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/abd_bridge.v",
+        "InstLine": 1,
+        "InstName": "adc_bridge",
+        "ModuleFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/abd_bridge.v",
+        "ModuleLine": 1,
+        "ModuleName": "adc_bridge"
+    },
+    {
+        "InstFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/pid_pid.v",
+        "InstLine": 1,
+        "InstName": "pid",
+        "ModuleFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/pid_pid.v",
+        "ModuleLine": 1,
+        "ModuleName": "pid"
+    }
+]
