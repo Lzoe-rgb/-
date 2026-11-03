@@ -1,0 +1,44 @@
+{
+    "Device": "GW2A-55C",
+    "Files": [
+        {
+            "Path": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/balance_ctrl.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/pwm_gen.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/quad_decoder.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/sign_map.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/top.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/uart_tx.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/abd_bridge.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/src/pid_pid.v",
+            "Type": "verilog"
+        }
+    ],
+    "IncludePath": [
+    ],
+    "LoopLimit": 2000,
+    "ResultFile": "G:/Gowin/Gowin_V1.9.12.04_x64/IDE/bin/Documents/impl/temp/rtl_parser.result",
+    "Top": "top",
+    "VerilogStd": "verilog_2001",
+    "VhdlStd": "vhdl_93"
+}
